@@ -1,0 +1,12 @@
+node_modules
+.prettierrc*
+tsconfig.json
+webpack.config.*
+dist
+.babelrc
+tsconfig-for-webpack-config.json
+.vscode
+nodemon.json
+.dockerignore
+docker-compose.yml
+README.md

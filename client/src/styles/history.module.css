@@ -1,0 +1,19 @@
+.list {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    margin-top: 4px;
+}
+
+.list-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--secondary-bg-color);
+    border-radius: 4px;
+    margin: 1px;
+    padding: 4px;
+}
+
+.list:nth-child(li) {
+    background-color: var(--main-bg-color);
+}

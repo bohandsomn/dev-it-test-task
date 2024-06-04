@@ -1,0 +1,19 @@
+.section {
+    max-width: 360px;
+    margin: 20px auto;
+}
+
+.error {
+    border-left: 4px solid rgb(193, 0, 0);
+    background-color: rgb(255, 18, 18);
+    padding: 5px;
+    color: white;
+    margin-top: 4px;
+}
+
+.empty {
+    border-left: 4px solid rgb(188, 144, 0);
+    background-color: var(--main-bg-color);
+    padding: 5px;
+    margin-top: 4px;
+}
