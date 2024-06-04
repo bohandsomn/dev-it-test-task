@@ -48,4 +48,4 @@ npm start
 
 ### Information
 
-Before running the project, make sure you have all the `.env` variables. Look at the `.env.example`.
+Before running the project, make sure you have all the `.env` variables (.env.development or .env.production). Look at the `.env.example`.
